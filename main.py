@@ -1,4 +1,8 @@
 import aritmetica
+import trigonometria
 
 class CalculadoraCientifica:
-    pass
+    def menu():
+        print('Minha calculadora')
+        print('1 - Trigonometria')
+        print('S - SAIR')

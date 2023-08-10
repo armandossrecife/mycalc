@@ -1,0 +1,2 @@
+class OperacoesTrigonometricas:
+    pass
