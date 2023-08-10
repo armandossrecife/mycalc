@@ -1,2 +1,3 @@
 class OperacoesTrigonometricas:
-    pass
+    def executar(self):
+        pass
